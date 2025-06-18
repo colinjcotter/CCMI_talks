@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="138.66524mm"
+   height="97.926834mm"
+   viewBox="0 0 138.66524 97.926834"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486, 2022-12-01)"
+   sodipodi:docname="complexity.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.914906"
+     inkscape:cx="159.57923"
+     inkscape:cy="406.05264"
+     inkscape:window-width="1390"
+     inkscape:window-height="1205"
+     inkscape:window-x="977"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-37.885078,-58.27344)">
+    <rect
+       style="fill:#cffb2f;fill-opacity:0;stroke:#000000;stroke-width:0.865;stroke-dasharray:none"
+       id="rect111"
+       width="124.93086"
+       height="76.635834"
+       x="51.186951"
+       y="58.70594"
+       ry="0" />
+    <path
+       style="fill:#cffb2f;fill-opacity:0;stroke:#000000;stroke-width:0.865;stroke-dasharray:none"
+       d="M 51.186952,65.646543 156.74196,135.05258"
+       id="path1203" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:0;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0.0926042px;word-spacing:0px;text-anchor:middle;fill:#cffb2f;fill-opacity:0;stroke:#000000;stroke-width:0.865;stroke-dasharray:none"
+       x="131.54427"
+       y="51.079544"
+       id="text1259"
+       transform="rotate(31.829574)"><tspan
+         sodipodi:role="line"
+         id="tspan1257"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.865"
+         x="131.59056"
+         y="51.079544">Affordable</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#cffb2f;fill-opacity:0;stroke:#000000;stroke-width:0.865;stroke-dasharray:none"
+       x="-95.327248"
+       y="43.368092"
+       id="text1313"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan1311"
+         style="stroke-width:0.865"
+         x="-95.327248"
+         y="43.368092">Model complexity</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#cffb2f;fill-opacity:0;stroke:#000000;stroke-width:0.865;stroke-dasharray:none"
+       x="109.6037"
+       y="145.46349"
+       id="text1317"><tspan
+         sodipodi:role="line"
+         id="tspan1315"
+         style="stroke-width:0.865"
+         x="109.6037"
+         y="145.46349">Data assimilation and/or</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.865"
+         x="109.6037"
+         y="154.28293"
+         id="tspan1319">control algorithm complexity</tspan></text>
+  </g>
+</svg>
