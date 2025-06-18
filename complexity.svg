@@ -9,6 +9,9 @@
    id="svg5"
    inkscape:version="1.2.2 (b0a8486, 2022-12-01)"
    sodipodi:docname="complexity.svg"
+   inkscape:export-filename="complexity.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -25,8 +28,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.914906"
-     inkscape:cx="159.57923"
-     inkscape:cy="406.05264"
+     inkscape:cx="159.57924"
+     inkscape:cy="407.14565"
      inkscape:window-width="1390"
      inkscape:window-height="1205"
      inkscape:window-x="977"
@@ -54,7 +57,7 @@
        id="path1203" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:0;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0.0926042px;word-spacing:0px;text-anchor:middle;fill:#cffb2f;fill-opacity:0;stroke:#000000;stroke-width:0.865;stroke-dasharray:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:0;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0.58208333px;word-spacing:0px;text-anchor:middle;fill:#cffb2f;fill-opacity:0;stroke:#000000;stroke-width:0.865;stroke-dasharray:none"
        x="131.54427"
        y="51.079544"
        id="text1259"
@@ -66,31 +69,32 @@
          y="51.079544">Affordable</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#cffb2f;fill-opacity:0;stroke:#000000;stroke-width:0.865;stroke-dasharray:none"
-       x="-95.327248"
-       y="43.368092"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0.582083px;text-anchor:middle;fill:#cffb2f;fill-opacity:0;stroke:#000000;stroke-width:0.865;stroke-dasharray:none"
+       x="-96.484016"
+       y="45.970821"
        id="text1313"
        transform="rotate(-90)"><tspan
          sodipodi:role="line"
          id="tspan1311"
          style="stroke-width:0.865"
-         x="-95.327248"
-         y="43.368092">Model complexity</tspan></text>
+         x="-96.192978"
+         y="45.970821">Model complexity</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#cffb2f;fill-opacity:0;stroke:#000000;stroke-width:0.865;stroke-dasharray:none"
-       x="109.6037"
-       y="145.46349"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0.582083px;text-anchor:middle;fill:#cffb2f;fill-opacity:0;stroke:#000000;stroke-width:0.865;stroke-dasharray:none"
+       x="116.25511"
+       y="144.30672"
        id="text1317"><tspan
          sodipodi:role="line"
          id="tspan1315"
          style="stroke-width:0.865"
-         x="109.6037"
-         y="145.46349">Data assimilation and/or</tspan><tspan
+         x="116.25511"
+         y="144.30672"
+         dx="0">Data assimilation and/or</tspan><tspan
          sodipodi:role="line"
          style="stroke-width:0.865"
-         x="109.6037"
-         y="154.28293"
+         x="116.54616"
+         y="153.12616"
          id="tspan1319">control algorithm complexity</tspan></text>
   </g>
 </svg>
